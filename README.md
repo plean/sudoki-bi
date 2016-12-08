@@ -9,7 +9,7 @@ A sudoku solver, the sudoku is red from standard input.
 ### Bonus
 
  * A sudoku generator
- * A game using [Liblapin](https://github.com/Damdoshi/LibLapin) suage : `bin/sudoki < map_incomplete.txt | bonus/game/sudoku`
+ * A game using [Liblapin](https://github.com/Damdoshi/LibLapin) usage : `bin/sudoki < map_incomplete.txt | bonus/game/sudoku`
 
 
 ### Team
