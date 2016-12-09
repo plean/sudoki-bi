@@ -1,6 +1,6 @@
 # sudoki-bi
 
-A sudoku solver, the sudoku is red from standard input.
+A sudoku solver, the sudoku is read from standard input.
 
 ### Usage
 
@@ -15,4 +15,4 @@ A sudoku solver, the sudoku is red from standard input.
 ### Team
 
  * [mancie_m](https://github.com/MeixDev)
- * [planch_j](http://github.com/plean
+ * [planch_j](http://github.com/plean)
